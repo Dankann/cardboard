@@ -16,7 +16,8 @@
 #ifndef HELLO_CARDBOARD_IOS_HELLO_CARDBOARD_FILE_UTILS_H_
 #define HELLO_CARDBOARD_IOS_HELLO_CARDBOARD_FILE_UTILS_H_
 
-#import <OpenGLES/ES2/gl.h>
+#import <OpenGLES/ES3/gl.h>
+#import <OpenGLES/ES3/glext.h>
 
 #include <string>
 

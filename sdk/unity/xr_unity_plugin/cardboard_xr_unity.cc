@@ -30,7 +30,9 @@
 #include <GLES2/gl2.h>
 #endif
 #ifdef __APPLE__
-#include <OpenGLES/ES2/gl.h>
+#include <OpenGLES/ES3/gl.h>
+#include <OpenGLES/ES3/glext.h>
+
 #endif
 #include "include/cardboard.h"
 

@@ -25,7 +25,7 @@
 #include <thread>
 #include <vector>
 
-#include <GLES2/gl2.h>
+#include <GLES/ES3/gl.h>
 #include "cardboard.h"
 #include "util.h"
 
